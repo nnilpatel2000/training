@@ -1,0 +1,8 @@
+git homework
+Upload the
+local machine’s file to
+GitHub
+(by dragging and
+dropping)
+
+Commit the file in GitHub
